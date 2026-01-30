@@ -10,8 +10,9 @@ function botaoAlerta() {
 }
 
 function promptCidade() {
+    let nome = prompt('Digite seu nome completo')
     let nomeCidade = prompt('Qual é o nome da cidade onde mora?')
-    alert(`Estive em ${nomeCidade} e lembrei de você!`)
+    alert(`Olá ${nome}! Estive em ${nomeCidade} e lembrei de você!`)
 }
 
 function somaInteiro() {
