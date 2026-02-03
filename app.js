@@ -7,7 +7,7 @@ function consoleClicado() {
 }
 
 function botaoAlerta() {
-    alert('Eu amo JS!');
+    alert('Você ama JS!');
 }
 
 function promptCidade() {
