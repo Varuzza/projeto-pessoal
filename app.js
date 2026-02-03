@@ -3,7 +3,7 @@ titulo.innerHTML = 'Hora do Desafio!';
 let nome = prompt('Digite seu nome completo');
 
 function consoleClicado() {
-    console.log('Olá, tudo bem? O Botão foi clicado!');
+    console.log(`Olá ${nome}, tudo bem? O Botão foi clicado!`);
 }
 
 function botaoAlerta() {
