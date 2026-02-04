@@ -11,7 +11,7 @@ function botaoAlerta() {
 }
 
 function promptCidade() {
-    let nomeCidade = prompt('Qual é o nome da cidade onde mora????');
+    let nomeCidade = prompt('Qual é o nome da cidade onde mora???');
     alert(`Olá ${nome}! Estive em ${nomeCidade} e lembrei de você!`);
 }
 
