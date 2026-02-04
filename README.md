@@ -1,1 +1,1 @@
-Tentando gerar conflitos // de novo
+Tentando gerar conflitos
